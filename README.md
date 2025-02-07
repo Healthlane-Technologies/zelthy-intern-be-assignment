@@ -4,7 +4,7 @@ This is a template repository for submitting assignment for the Backend develope
 
 Assignment link: https://zelthy.com/assignments/backend-intern
 
-Submission form: https://forms.gle/o8tUdshRWS33tg8X6
+Submission form: https://forms.gle/tMMQn7ofrpEme88z5
 
 ##### How to use this template?
 
